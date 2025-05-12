@@ -17,8 +17,8 @@ afficher_version() {
     echo -e "║          ${CYAN}MKN SMM BOT -  $VERSION${RESET}          ║"
 }
 echo -e " ============================" 
-echo -e "||    Gggggggggggg          ||
-echo -e "||                          ||
-echo -e " ============================
+echo -e "||    ${vert} Gggggggggggg  ${RESET}        ||" 
+echo -e "||                          ||"
+echo -e " ============================" 
 
 # Fonction pour afficher les options du menu
